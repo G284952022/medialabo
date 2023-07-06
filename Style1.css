@@ -4,6 +4,9 @@ h1{
     background-color:rgba(0, 0, 0, 0.196);
 }
 h2{
+    color:white;
+    text-shadow:rgb(11, 11, 91) 1px 0 10px;
+    background-color:rgb(21, 21, 186);
     border-bottom-style:solid;
     border-bottom-color:#eee;
     border-bottom-width:1px;
@@ -17,6 +20,4 @@ h3{
     border-bottom-width:1px;
 }
 body{
-    border:solid;
-    border-color:red;
 }
