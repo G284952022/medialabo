@@ -1,6 +1,8 @@
 body{
     background-color:rgb(93, 127, 220);
 }
-h2{
-    
+label{
+    color:white;
+    font-size: 200%;
+    text-shadow:black 1px 1px;
 }
